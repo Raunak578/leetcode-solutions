@@ -1,2 +1,2 @@
-# leetcode-soliutions
-DSA practice solutions
+# leetcode solutions
+Data Structures & Algorithms – Problem Solving 
